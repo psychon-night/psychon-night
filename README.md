@@ -15,4 +15,4 @@ You're going to harrass me anyways, might as well give them to you.
 - Kind-of interview: https://github.com/psychon-night/psychon-night/blob/main/wet_blanket_interview.md
 
 
-If you're against any of my fellow LGBTQ+ or furries, or anyone else typically harrased, you can _leave_. Like, _right now_, and never speak to me or them again. I'm dead serious, I _will not tolerate it_. This is going to be a safe space for _everybody_, weather you like it or not. Unless you can be accepting of everyone, you are not welcome here.
+If you're against any of my fellow LGBTQ+ individuals or furries - or anyone, for that matter - you can _leave_. I'm dead serious, I _will not tolerate it_. This is going to be a safe space for _everybody_, weather you like it or not. Unless you can be accepting of everyone, you are not welcome here.
