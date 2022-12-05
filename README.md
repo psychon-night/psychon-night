@@ -14,6 +14,5 @@ You're going to harrass me anyways, might as well give them to you.
 - Deviantart: https://www.deviantart.com/psychonnight
 - Kind-of interview: https://github.com/psychon-night/psychon-night/blob/main/wet_blanket_interview.md
 
-## Just a few quick message for you...
-- If you're homophobic, transphobic, or against any of my fellow LGBTQ+ or Furry friends, you can _leave_. Like, _right now_, and never speak to me again. I'm dead serious, I will not tolerate it.
-- Be a good person or you will quickly regret it
+
+If you're against any of my fellow LGBTQ+ or furries, or anyone else typically harrased, you can _leave_. Like, _right now_, and never speak to me or them again. I'm dead serious, I _will not tolerate it_. This is going to be a safe space for _everybody_, weather you like it or not. Unless you can be accepting of everyone, you are not welcome here.
