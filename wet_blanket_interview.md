@@ -1,10 +1,5 @@
 **What are some of your favorite games?**
 - Five Nights at Freddy's
-- Far Beyond the World (gotta 💙 Ranok)
-- Repeat
-- Lust Shards
-- 9:22
-- Fueled By Insanity
 - JR's
 - StarCraft (the original and SCII)
 - Stellaris
