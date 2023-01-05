@@ -9,7 +9,5 @@ There are a few ways to contact me:
 
 ## Links and stuff
 You're going to harrass me anyways, might as well give them to you.
-- Itch.io: https://itch.io/profile/psychonnight
-- Pronouns Page: https://en.pronouns.page/@PsyNight
-- Deviantart: https://www.deviantart.com/psychonnight
+- All my links are here: https://psychon-night.carrd.co/
 - Kind-of interview: https://github.com/psychon-night/psychon-night/blob/main/wet_blanket_interview.md
