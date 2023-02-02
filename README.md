@@ -1,6 +1,6 @@
 ## About me
-👋 I'm Psychon. I'm a high-school, tech-oriented student. I'm in love with basically everything technology... except Apple. 
-I use they/them pronouns.
+👋 I'm Psychon. I'm a high-school, tech-oriented student. I'm in love with basically everything technology... except Apple.\
+I use **she/her** pronouns.\
 I'm also a fabrication student in FRC Team 2910 (bow to Alphonso).
 
 There are a few ways to contact me:
