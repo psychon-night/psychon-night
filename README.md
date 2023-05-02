@@ -23,6 +23,6 @@ You're going to harrass me anyways, might as well give them to you.
 - IntelliJ
 
 # Devices & Platforms
-- Thinkpad L13 => Windows 10
-- Raspberry Pi 4b => Lineage / Ubuntu
-- Pixel 4a => Android 13
+- Thinkpad L13 => Windows 10 / Ubuntu
+- Raspberry Pi 4b => Lineage 13
+- Pixel 6a => Android 13
