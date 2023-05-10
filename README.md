@@ -9,7 +9,7 @@ There are a few ways to contact me:
 
 ## Links
 You're going to harrass me anyways, might as well give them to you.
-- All my links are here: https://psychon-night.carrd.co/
+- All my links are here: https://murder-axo.carrd.co/
 - Kind-of interview: https://github.com/psychon-night/psychon-night/blob/main/wet_blanket_interview.md
 
 ## Languages
