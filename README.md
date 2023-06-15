@@ -1,5 +1,5 @@
 ## About
-👋 I'm Psychon. I'm a high-school, tech-oriented student. I'm in love with basically everything technology... except Apple.\
+👋 I'm Psychon. I'm a tech-oriented student. I'm in love with basically everything technology... except Apple.\
 I use **she/her** pronouns.\
 
 There are a few ways to contact me:
