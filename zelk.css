@@ -10,7 +10,7 @@
 /* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/green.css); */
 /* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/gray.css); */
 /* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/orange.css); */
-@import url(https://raw.githack.com/schnensch0/zelk/main/colors/purple.css);
+/* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/purple.css); */
 /* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/red.css); */
 /* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/discord.css); */
 /*-------------VARIABLES-------------*/
@@ -91,7 +91,7 @@
   --button-background-active: #4d5f68;
   --button-accent: var(--accent-color);
   --button-accent-hover: #d2f3ff;
-  --button-accent-active: #8dd4f8;
+  --button-accent-active: #3c4c5d;
   --button-destructive: #fb7c7c;
   --button-destructive-hover: #ff929b;
   --button-destructive-active: #fa4a4a;
