@@ -5,7 +5,7 @@ I use **she/her** pronouns.\
 Mostly a Linux-oriented developer, though I do provide support for Windows.\
 Need tech support? Happy to provide it! (Assuming I know you IRL, sorry rando reading this)
 
-Psychon, how the hell do we talk to you??\
+## Psychon, how the hell do we talk to you??
 - Leave an issue (or something) on my psychon-night repository (I don't use it for anything, so go right ahead. Just don't spam me, please.)
 - Don't
 
