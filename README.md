@@ -1,26 +1,25 @@
 ## About
-👋 I'm Psychon. I'm a tech-oriented student. I'm in love with basically everything technology... except Apple.\
+👋 I'm Psychon, a tech-oriented student primarily focused on software development
 I use **she/her** pronouns.\
 
-There are a few ways to contact me:
+Mostly a Linux-oriented developer, though I do provide support for Windows.\
+Need tech support? Happy to provide it! (Assuming I know you IRL, sorry rando reading this)
+
+Psychon, how the hell do we talk to you??\
 - Leave an issue (or something) on my psychon-night repository (I don't use it for anything, so go right ahead. Just don't spam me, please.)
-- Email me at PsychonNight@outlook.com (also, please don't spam me here either)
+- Don't
 
 ## Links
-You're going to harrass me anyways, might as well give them to you.
-- All my links are here: https://murder-axo.carrd.co/
+
+Kinda got tired of updating here constantly, so here, take a card: https://murder-axo.carrd.co/
 
 ## Languages
-- Python
-- JavaScript
-- HTML / CSS
-- Java (only a little)
+
+- Python (primary language)
+- JavaScript (fucking kill me)
+- HTML / CSS (not a fucking programming language YOU DUNCE)
+- Java (only a little) (DEAR GOD HELP ME)
 
 ## Tools
-- Visual Studio Code
-- IntelliJ
-
-# Devices & Platforms
-- Thinkpad L13 => Linux :3
-- Raspberry Pi 4b => Lineage 13
-- Pixel 6a => Android 13
+- Visual Studio Code (STOP CRASHING PLEASE)
+- IntelliJ (dear god)
