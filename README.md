@@ -1,6 +1,6 @@
 ## About
-👋 I'm Psychon, a tech-oriented student primarily focused on software development
-I use **she/her** pronouns.\
+👋 I'm Psychon, a tech-oriented student primarily focused on software development\
+I use **she/her** pronouns.
 
 Mostly a Linux-oriented developer, though I do provide support for Windows.\
 Need tech support? Happy to provide it! (Assuming I know you IRL, sorry rando reading this)
@@ -16,8 +16,8 @@ Kinda got tired of updating here constantly, so here, take a card: https://murde
 ## Languages
 
 - Python (primary language)
-- JavaScript (fucking kill me)
-- HTML / CSS (not a fucking programming language YOU DUNCE)
+- JavaScript (h   e   l   p)
+- HTML / CSS (not a *programming* language, but...)
 - Java (only a little) (DEAR GOD HELP ME)
 
 ## Tools
