@@ -3,9 +3,9 @@
 I use **she/her** pronouns.
 
 Mostly a Linux-oriented developer, though I do provide support for Windows.\
-Need tech support? Happy to provide it! (Assuming I know you IRL, sorry rando reading this)
+Acting as free tech support the all the locals
 
-## Psychon, how the hell do we talk to you??
+## Contact
 - Leave an issue (or something) on my psychon-night repository (I don't use it for anything, so go right ahead. Just don't spam me, please.)
 - Don't
 
@@ -16,10 +16,10 @@ Kinda got tired of updating here constantly, so here, take a card: https://murde
 ## Languages
 
 - Python (primary language)
-- JavaScript (h   e   l   p)
+- JavaScript
 - HTML / CSS (not a *programming* language, but...)
-- Java (only a little) (DEAR GOD HELP ME)
+- Java
 
 ## Tools
-- Visual Studio Code (STOP CRASHING PLEASE)
-- IntelliJ (dear god)
+- Visual Studio Code
+- IntelliJ
