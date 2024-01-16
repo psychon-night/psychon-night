@@ -1,5 +1,5 @@
 ## About
-👋 I'm Psychon, a tech-oriented student primarily focused on software development\
+👋 I'm Axo, a tech-oriented student primarily focused on software development\
 I use **she/her** pronouns.
 
 Mostly a Linux-oriented developer, though I do provide support for Windows.\
