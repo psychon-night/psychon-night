@@ -7,7 +7,7 @@ Acting as free tech support the all my local buddies
 
 ## Links
 
-Kinda got tired of updating here constantly, so here, take a card: https://murder-axo.carrd.co/
+You can find everything here: https://psychon-night.github.io/
 
 ## Languages
 
