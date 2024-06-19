@@ -22,5 +22,5 @@ You can find everything here: https://psychon-night.github.io/
 - Project IDX
 
 ## Platforms
-- Linux (Ubuntu)
+- Arch Linux
 - Android
