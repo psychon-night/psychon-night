@@ -5,10 +5,6 @@ I use **she/her** pronouns.
 I'm a Linux-oriented developer\
 Acting as free tech support the all my local buddies
 
-## Links
-
-You can find everything here: https://psychon-night.github.io/
-
 ## Languages
 
 - Python (primary language)
