@@ -18,5 +18,5 @@ Acting as free tech support the all my local buddies
 - Project IDX
 
 ## Platforms
-- Linux (Ubuntu, Mint, Debian, and Arch)
+- Linux (Mint, Debian, and Arch)
 - Android
