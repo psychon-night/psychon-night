@@ -13,6 +13,7 @@ Acting as free tech support the all my local buddies
 - Java
 
 ## IDEs
+- Zed
 - Visual Studio Code
 - IntelliJ
 - Project IDX
