@@ -8,8 +8,6 @@ Acting as free tech support the all my local buddies
 ## Languages
 
 - Python (primary language)
-- JavaScript
-- HTML / CSS (not a *programming* language, but...)
 - Java
 
 ## IDEs
@@ -20,6 +18,6 @@ Acting as free tech support the all my local buddies
 
 ## Platforms
 - Linux (Mint, Debian, and Arch)
-- Android
+- Android 
 
 [![forthebadge](https://forthebadge.com/images/badges/code-sucks-it-works.svg)](https://forthebadge.com)
